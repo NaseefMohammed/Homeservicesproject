@@ -1,0 +1,6 @@
+.grid-item{
+background-color: darkred;
+display: flex;
+flex-wrap: wrap;
+flex-shrink: 50px;
+}

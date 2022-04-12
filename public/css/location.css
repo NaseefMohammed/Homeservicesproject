@@ -1,0 +1,18 @@
+
+.container{
+    margin-top: 60px;
+    background-color: rgb(226, 238, 236);
+	border-radius: 5px;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+	overflow: hidden;
+	width: 800px;
+	max-width: 100%;
+    padding: 30px 30px 30px 30px;
+
+}
+body{
+    background-color: rgb(12, 100, 100);
+}
+button{
+    text-align: center;
+}

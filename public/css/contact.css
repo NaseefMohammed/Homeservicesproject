@@ -1,0 +1,17 @@
+.link_button{
+    color: #ffffff!important;
+    border-style: solid;
+    border-width: 9px!important;
+    border-color: salmon;
+    border-radius: 100px;
+    letter-spacing: 3px;
+    font-size: medium;
+    text-decoration: none;
+}
+input[type='text']{
+    width: 250px;
+    height: 25px;
+}
+td{width: 250px;
+
+}

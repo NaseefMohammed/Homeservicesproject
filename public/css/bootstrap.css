@@ -1,0 +1,17 @@
+
+.jumbotron{
+    background-image: url('.../images/homewall.jpg');
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+    color:blanchedalmond;
+    border-radius: 0px!important;
+}
+.jumbotron h1{
+    margin: 30px 0;
+    font-size: 30px;
+    line-height: 1.5;
+}
+.intro{
+    padding-top: 160px;
+}
